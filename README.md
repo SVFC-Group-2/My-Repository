@@ -1,1 +1,3 @@
 # My-Repository
+
+Thirdy Gayares
